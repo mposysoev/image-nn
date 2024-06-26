@@ -1,0 +1,8 @@
+*.keras
+*.pth
+*.png
+*.jpg
+.vscode
+!example/*
+!example/*/*
+.ruff_cache
