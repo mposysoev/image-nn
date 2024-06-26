@@ -23,7 +23,7 @@ Result of training:
 ![PanelkiRes](example/panelki_results/panelki.jpg_model_final.keras_restored.png)
 
 The process of training:
-![PanelkiProc]!(example/panelki.gif)
+![PanelkiProc](example/panelki.gif)
 
 ### 2
 
@@ -34,7 +34,7 @@ Result of training:
 ![OrangesRes](example/oranges_results/oranges.jpg_model_final.pth_restored.png)
 
 The process of training:
-![OrangesProc]!(example/oranges.gif)
+![OrangesProc](example/oranges.gif)
 
 ### 3
 
@@ -45,4 +45,4 @@ Result of training:
 ![SakuraRes](example/sakura_results/sakura.jpg_model_final.pth_restored.png)
 
 The process of training:
-![SakuraProc]!(example/sakura.gif)
+![SakuraProc](example/sakura.gif)
